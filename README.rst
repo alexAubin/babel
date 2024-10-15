@@ -7,7 +7,7 @@ applications (in particular web-based applications.)
 
 Details can be found in the HTML files in the ``docs`` folder.
 
-For more information please visit the Babel web site:
+For more informations please visit the Babel web site:
 
 http://babel.pocoo.org/
 
